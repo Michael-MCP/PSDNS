@@ -1,6 +1,8 @@
 # PSDNS
 MySQL Powershell DNS RR Automator
 
+Working Development version online at http://boothtech.uk/dns
+
 Download "DNS.PS1" and "sql functions includes.ps1"
 
 Changes Effected Lines Alter DNS.ps1 to reflect your MYSQL Server 8-11 change the path to sql functions includes.ps1 3 change references to boothtech.uk to your domain. 30,32,45,47,73,74,76,89,90,93
